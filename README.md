@@ -1,1 +1,3 @@
 # GREENIT 
+
+Distribution : Raspbian
